@@ -37,7 +37,7 @@ setup(
     keywords=("Linux", "msr", "Model Specific Register"),
     description="Model Specific Register editor",
     license="BSD 2-Clause",
-    url="https://github.com/litrin/pymsr",
+    url="https://github.com/litrin/msreditor",
     author="Litrin Jiang",
     author_email="litrin_at_gmail.com",
 
